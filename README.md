@@ -16,10 +16,9 @@ Em geral, o projeto visava verificar se os alunos possuiam habilidade para:
 
 O projeto foi realizado em grupo, minha equipe foi composta por:
 
-- Alissandra Lima (https://github.com/anaualima);
+- Mim, Alissandra Lima (https://github.com/anaualima);
 - Bruno Melo (https://github.com/melobrunoti);
+- Danielle Silva (https://github.com/daniellelsilva)
 - Lucca Neiva (https://github.com/luccaneivas);
 
-O código foi escrito em conjunto, alguns requisitos/páginas do app foram divididas e o código escrito individualmente, em outras optamos pelo pair-programming, por fim, o CSS do app é de minha autoria.
-
-O projeto foi finalizado no dia 09/02/2022 e pode ser acessado no link: https://daniellelsilva.github.io/cook-it/#/
+O código foi escrito em conjunto, alguns requisitos/páginas do app foram divididas e o código escrito individualmente, em outras optamos pelo pair-programming, por fim, o CSS do app é de autoria de https://github.com/daniellelsilva
